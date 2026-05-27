@@ -4,6 +4,7 @@ cycler==0.12.1
 Django==5.0
 djangorestframework==3.16.1
 fonttools==4.60.1
+gunicorn==26.0.0
 joblib==1.5.2
 kiwisolver==1.4.9
 matplotlib==3.10.7
@@ -23,3 +24,4 @@ sqlparse==0.5.3
 threadpoolctl==3.6.0
 typing_extensions==4.15.0
 tzdata==2025.2
+whitenoise==6.12.0
